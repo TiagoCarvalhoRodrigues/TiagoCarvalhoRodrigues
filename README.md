@@ -1,6 +1,6 @@
 ### Olá sou Tiago bem-vindos 👋
 
-- 🌱 Atualmente estou estudando Java, Sql, Python, HTML5 e JavaScript.
+- 🌱 Atualmente estou estudando Java, Sql, Python, HTML5, JavaScript, CSS e TypeScript.
 - 🤔 Procurando Estágio na área de TI.
 
 <div>
