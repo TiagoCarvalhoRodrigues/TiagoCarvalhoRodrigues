@@ -1,7 +1,7 @@
 ### Olá sou Tiago bem-vindos 👋
 
 - 🌱 Atualmente estou estudando Java, Sql, Python, HTML5, JavaScript, CSS e TypeScript.
-- 🤔 Procurando Estágio na área de TI.
+- 🤔 Auxiliar de T.I na empresa Refrigerantes Triângulo (Guarana Mineiro).
 
 <div>
   <a href="https://github.com/TiagoCarvalhoRodrigues">
