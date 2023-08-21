@@ -19,8 +19,11 @@
   <img style="padding-bottom: 5px" align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img style="padding-bottom: 5px" align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 </div>
-  
-<div> 
-  <a href = "mailto:tcr_2015@outlook.com"><img style="padding-right: 5px;padding-top: 20px;" src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
-  <a href = "https://www.linkedin.com/in/tiago-carvalho-rodrigues-407309249/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div style="padding-top:5px"> 
+    <a href = "mailto:tcr_2015@outlook.com">
+      <img style="padding-right: 5px;padding-top: 20px; margin-top:5px" src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"/>  
+    </a>
+  <a href = "https://www.linkedin.com/in/tiago-carvalho-rodrigues-407309249/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
 </div>
